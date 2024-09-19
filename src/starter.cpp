@@ -59,7 +59,7 @@ void cpuTest() {
 	char load = 0;
 	int duration = 600; // Normally set to 600 (10 minute tests, might need to increase for more accuracy)
 
-	cout << "Please note: this is a very basic test that will stress all cores for 10 minutes.\n";
+	cout << "Please note: this is a very basic test that will stress your cores for 10 minutes.\n";
 	cout << "The purpose of this test is to estimate how long a battery will last at different load levels.\n";
 	cout << "Do not use this to test stability.\n\n\n";
 
